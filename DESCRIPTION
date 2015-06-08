@@ -1,0 +1,9 @@
+Package: stat
+Type: Package
+Title: Calculate mean and variance.
+Version: 1.0
+Date: 2015-06-08
+Author: Md. Mushfiqur Rahman
+Maintainer: Md. Mushfiqur Rahman <mushfiq_194@yahoo.com>
+Description: Calculate with in short times.
+License: GPL-2
